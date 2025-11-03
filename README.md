@@ -108,7 +108,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <h3 align="center">Netflix DevSecOps</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
-          <img src="https://github.com/Prakash2819/Netflix-DevSecOps/blob/main/public/assets/thumbnail.gif" width="380" alt="Project"/>
+          <img src="https://github.com/Prakash2819/Netflix-DevSecOps/blob/main/public/assets/thumbnail.gif" width="350" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
@@ -122,7 +122,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
     <h3 align="center">Swiggy DevSecOps</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="380" alt="Project"/>
+          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="350" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
@@ -138,7 +138,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <h3 align="center">Spotify Infrastructure Automation</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
-          <img src="https://github.com/Prakash2819/Terraform-Spotify/blob/main/providers/thumbnail.gif" width="380" alt="Project"/>
+          <img src="https://github.com/Prakash2819/Terraform-Spotify/blob/main/providers/thumbnail.gif" width="350" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
