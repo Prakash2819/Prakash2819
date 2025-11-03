@@ -122,7 +122,8 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
     <h3 align="center">Swiggy-DevSecOps</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.jpg" width="400" alt="Shortly Project"/>
+          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.jpg" width="400" alt=" Project"/>
+          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/web-img.png" width="400" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
