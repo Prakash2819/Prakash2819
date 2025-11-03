@@ -61,6 +61,10 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" />
       <br>Ubuntu
     </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48" />
+      <br>Terraform
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
