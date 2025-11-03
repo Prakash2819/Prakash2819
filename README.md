@@ -45,6 +45,14 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
       <br>AWS
     </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" />
+      <br>Ubuntu
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -67,9 +75,9 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" />
       <br>Grafana
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="48" height="48" />
-      <br>ELK Stack
+        <td align="center" width="96">
+      <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="48" height="48" />
+      <br>Argo CD
     </td>
   </tr>
 </table>
