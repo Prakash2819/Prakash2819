@@ -156,11 +156,9 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <h3 align="center">Explore More Projects</h3>
       <div align="center">
         <p>Check out my repositories for more projects showcasing my skills in:</p>
-        <p>
-          <img src="https://img.shields.io/badge/Mobile-Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Development"/>
-          <img src="https://img.shields.io/badge/Backend-Services-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Backend Services"/>
+       /* <p>
           <img src="https://img.shields.io/badge/DevOps-Tools-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="DevOps Tools"/>
-        </p>
+        </p> */
         <a href="https://github.com/praveengongada?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/View%20All%20Repositories-212121?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
         </a>
