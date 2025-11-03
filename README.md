@@ -174,24 +174,24 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
 <br>
 
 <div align="center">
-  <a href="https://github.com/praveengongada">
-    <img src="https://github-readme-stats.vercel.app/api?username=praveengongada&show_icons=true&count_private=true&theme=vue&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=333" width="450" alt="praveengongada's GitHub stats" />
+  <a href="https://github.com/prakash2819">
+    <img src="https://github-readme-stats.vercel.app/api?username=prakash2819&show_icons=true&count_private=true&theme=vue&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=333" width="450" alt="prakash2819's GitHub stats" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/praveengongada">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveengongada&theme=vue&border=00ADD8&currStreakLabel=00ADD8&ring=00ADD8&fire=00ADD8&sideLabels=00ADD8" width="450" alt="praveengongada's contribution streak"/>
+  <a href="https://github.com/prakash2819">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2819&theme=vue&border=00ADD8&currStreakLabel=00ADD8&ring=00ADD8&fire=00ADD8&sideLabels=00ADD8" width="450" alt="prakash2819's contribution streak"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/praveengongada">
-    <img src="https://github-profile-trophy.vercel.app/?username=praveengongada&theme=flat&column=6&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700" alt="praveengongada's trophies"/>
+  <a href="https://github.com/prakash2819">
+    <img src="https://github-profile-trophy.vercel.app/?username=prakash2819&theme=flat&column=6&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700" alt="prakash2819's trophies"/>
   </a>
 </div>
 
