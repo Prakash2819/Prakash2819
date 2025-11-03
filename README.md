@@ -23,6 +23,18 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
       <br>Java
     </td>
+    <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+  <br>Python
+</td>
+    <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="48" height="48" />
+  <br>HTML
+</td>
+    <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="48" height="48" />
+  <br>CSS
+</td>
   </tr>
   <tr>
     <td align="center" width="96">
