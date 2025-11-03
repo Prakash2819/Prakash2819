@@ -105,21 +105,21 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
 <table>
   <tr>
   <td width="50%">
-      <h3 align="center">MovieDB</h3>
+      <h3 align="center">Netflix DevSecOps</h3>
       <div align="center">
-        <a href="https://github.com/PraveenGongada/MovieDB" target="_blank">
-          <img src="https://raw.githubusercontent.com/PraveenGongada/MovieDB/refs/heads/main/docs/images/thumbnail.png" width="400" alt="MovieDB Project"/>
+        <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
+          <img src="https://github.com/Prakash2819/Netflix-DevSecOps/blob/main/public/assets/thumbnail.gif" width="400" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/PraveenGongada/MovieDB" target="_blank">
+          <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="MovieDB Repo"/>
           </a>
         </p>
-        <p><strong>Flutter, Dart</strong> - A cinema app featuring intuitive browsing and comprehensive movie details with seamless user experience and recommendations.</p>
+        <p><strong>Jenkins, Docker, Kubernetes, ArgoCD</strong> — Implemented a Netflix-inspired CI/CD pipeline integrating automated testing, security checks, and dynamic monitoring for reliable cloud delivery.</p>
       </div>
     </td>
     <td width="50%">
-    <h3 align="center">Swiggy-DevSecOps</h3>
+    <h3 align="center">Swiggy DevSecOps</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
           <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="400" alt=" Project"/>
