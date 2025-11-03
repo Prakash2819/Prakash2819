@@ -119,14 +119,14 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       </div>
     </td>
     <td width="50%">
-    <h3 align="center">Shortly</h3>
+    <h3 align="center">Swiggy-DevSecOps</h3>
       <div align="center">
-        <a href="https://github.com/PraveenGongada/Shortly" target="_blank">
-          <img src="https://raw.githubusercontent.com/PraveenGongada/Shortly/refs/heads/main/frontend/docs/images/thumbnail.png" width="400" alt="Shortly Project"/>
+        <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
+          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.jpg" width="400" alt="Shortly Project"/>
         </a>
         <p>
-          <a href="https://github.com/PraveenGongada/Shortly" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Shortly Repo"/>
+          <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Swiggy Repo"/>
           </a>
         </p>
         <p><strong>Go, PostgreSQL</strong> - A comprehensive URL shortener featuring user accounts, link management, and an analytics dashboard.</p>
