@@ -11,7 +11,7 @@
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/3001/3001758.png" alt="About Me">&nbsp;&nbsp;About Me
 </h2>
 
-I'm a Software Engineer who loves building mobile apps, backend systems, and exploring DevOps practices. I find joy in crafting clean solutions that just work, automating the repetitive stuff, and making apps that feel natural to use. Whether I'm coding a mobile feature, designing a backend API, or setting up deployment pipelines, I'm always looking for that perfect balance of simplicity and effectiveness. My projects are driven by a genuine curiosity about how things work and how they can work better.
+I'm a DevOps Engineer who enjoys building scalable infrastructure, automating deployment processes, and enhancing system reliability. I specialize in designing CI/CD pipelines, container orchestration, and cloud-based environments that make development faster and more efficient. My focus is on creating solutions that balance simplicity, performance, and resilience — driven by a curiosity to understand how systems work and how to make them work better.
 
 <h2>
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
@@ -20,28 +20,8 @@ I'm a Software Engineer who loves building mobile apps, backend systems, and exp
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
       <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="48" height="48" />
-      <br>React Native
     </td>
   </tr>
   <tr>
