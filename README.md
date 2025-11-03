@@ -130,7 +130,6 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
           </a>
         </p>
         <p><strong>Docker, Kubernetes, Jenkins, SonarQube, Trivy, Prometheus</strong> — A complete DevSecOps pipeline implementation for the Swiggy application, featuring automated CI/CD, security scanning, container orchestration, and monitoring.</p>
-
       </div>
       
   </tr>
