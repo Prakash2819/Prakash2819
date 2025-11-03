@@ -128,9 +128,6 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
           <a href="https://github.com/PraveenGongada/Shortly" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Shortly Repo"/>
           </a>
-          <a href="https://shortly-go.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Shortly Live"/>
-          </a>
         </p>
         <p><strong>Go, PostgreSQL</strong> - A comprehensive URL shortener featuring user accounts, link management, and an analytics dashboard.</p>
       </div>
