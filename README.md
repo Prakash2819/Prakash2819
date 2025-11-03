@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>👋 Hello, I'm Praveen Kumar</h1>
+  <h1>👋 Hello, I'm Prakash Erusagoundar</h1>
   <p>
-    <img src="https://img.shields.io/badge/Mobile-Engineer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Engineer"/>
-    <img src="https://img.shields.io/badge/Backend-Developer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer"/>
     <img src="https://img.shields.io/badge/DevOps-Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps Enthusiast"/>
   </p>
 </div>
