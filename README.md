@@ -229,7 +229,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
   <br clear="left"/>
   
   <div>
-    <img align="right" width="270" src="https://w7.pngwing.com/pngs/401/951/png-transparent-devops-software-developer-agile-software-development-software-testing-puppet-icon-devops-logo-text-logo-engineering-thumbnail.png" alt="DevOps & Cloud" />
+    <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/8759/8759076.png" alt="DevOps & Cloud" />
     <h3>☁️ DevOps & Cloud Infrastructure</h3>
     <ul>
       <li>Automating deployments and CI/CD pipelines using <b>GitHub Actions</b> and <b>Jenkins</b></li>
