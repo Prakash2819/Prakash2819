@@ -216,7 +216,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
   <br clear="right"/>
   
   <div>
-    <img align="left" width="270" src="https://apponix.com/front/images/asset/AWS-vs-azure-what-are-the-key-differences.png" alt="Cloud" />
+    <img align="left" width="300" hieght="300" src="https://apponix.com/front/images/asset/AWS-vs-azure-what-are-the-key-differences.png" alt="Cloud" />
     <h3 align="right">☁️ Cloud Platforms</h3>
     <p align="right">
       Expertise in deploying and managing cloud-native applications on <b>AWS</b> and <b>Azure</b><br>
