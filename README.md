@@ -112,7 +112,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
         </a>
         <p>
           <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="MovieDB Repo"/>
+            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
         <p><strong>Jenkins, Docker, Kubernetes, ArgoCD</strong> — Implemented a Netflix-inspired CI/CD pipeline integrating automated testing, security checks, and dynamic monitoring for reliable cloud delivery.</p>
@@ -122,11 +122,11 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
     <h3 align="center">Swiggy DevSecOps</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="380" alt=" Project"/>
+          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="380" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Swiggy Repo"/>
+            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
         <p><strong>Docker, Kubernetes, Jenkins, SonarQube, Trivy, Prometheus</strong> — A complete DevSecOps pipeline implementation for the Swiggy application, featuring automated CI/CD, security scanning, container orchestration, and monitoring.</p>
@@ -135,17 +135,17 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
   </tr>
   <tr>
   <td width="50%">
-      <h3 align="center">Catalyst</h3>
+      <h3 align="center">Spotify Infrastructure Automation</h3>
       <div align="center">
-        <a href="https://github.com/PraveenGongada/Catalyst" target="_blank">
-          <img src="https://raw.githubusercontent.com/PraveenGongada/Catalyst/refs/heads/main/docs/images/deployment-summary.png" width="380" alt="Catalyst Project"/>
+        <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
+          <img src="https://github.com/Prakash2819/Terraform-Spotify/blob/main/providers/thumbnail.gif" width="380" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/PraveenGongada/Catalyst" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Catalyst Repo"/>
+          <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
-        <p><strong>Go, Charm.sh</strong> - Elegant TUI tool for triggering GitHub Actions workflows with matrix configurations for mobile app deployments.</p>
+          <p><strong>Terraform, AWS</strong> — Automated Spotify infrastructure provisioning with modular, scalable IaC for cloud-native deployment.</p>
       </div>
     </td>
     </td>
