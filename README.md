@@ -228,10 +228,9 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
     
   <br clear="left"/>
 
-    <!-- Infrastructure Automation -->
   <div>
     <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/10835/10835163.png" alt="Infrastructure Automation" />
-    <h3>🧩 Infrastructure Automation</h3>
+    <h3>⚙ Infrastructure Automation</h3>
     <ul>
       <li>Infrastructure provisioning with <b>Terraform</b> and <b>CloudFormation</b></li>
       <li>Creating reusable IaC modules for consistent and scalable environments</li>
