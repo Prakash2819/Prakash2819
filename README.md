@@ -232,10 +232,10 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
     <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/9886/9886987.png" alt="DevOps & Cloud" />
     <h3>☁️ DevOps & Cloud Infrastructure</h3>
     <ul>
-      <li>Container orchestration and deployment using Kubernetes</li>
-      <li>Design and implementation of automated CI/CD pipelines with GitHub Actions</li>
-      <li>Architecture and deployment of microservices with service mesh integration</li>
-      <li>Comprehensive monitoring and observability solutions using Prometheus, Grafana, and the ELK Stack</li>
+      <li>Automating deployments and CI/CD pipelines using <b>GitHub Actions</b> and <b>Jenkins</b></li>
+      <li>Containerizing applications with <b>Docker</b> and orchestrating using <b>Kubernetes</b></li>
+      <li>Infrastructure provisioning with <b>Terraform</b> and monitoring using <b>Prometheus</b> + <b>Grafana</b></li>
+      <li>Managing and deploying scalable cloud workloads on <b>AWS</b> and <b>Azure</b></li>
     </ul>
   </div>
 </div>
