@@ -39,6 +39,10 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="48" height="48" />
       <br>GH Actions
     </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="48" height="48" />
+      <br>CI/CD
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
