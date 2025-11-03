@@ -203,32 +203,6 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
 
 <div>
   <div>
-    <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/1152/1152258.png" alt="Mobile Development" />
-    <h3>📱 Mobile Development</h3>
-    <ul>
-      <li>Expertise in cross-platform development with Flutter and React Native</li>
-      <li>Implementation of native modules and platform-specific channels</li>
-      <li>Ensuring consistent UI/UX and responsive design across multiple platforms</li>
-      <li>Optimization of application performance for resource-constrained mobiles</li>
-    </ul>
-  </div>
-  
-  <br clear="right"/>
-  
-  <div>
-    <img align="left" width="270" src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" alt="Backend Development" />
-    <h3 align="right">⚙️ Backend Development</h3>
-    <p align="right">
-      Development of high-performance, scalable backend systems using Go<br>
-      Design and implementation of RESTful APIs and microservices<br>
-      Database architecture and query optimization<br>
-      Application of best practices for maintainable and efficient code
-    </p>
-  </div>
-    
-  <br clear="left"/>
-  
-  <div>
     <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/8759/8759076.png" alt="DevOps & Cloud" />
     <h3>☁️ DevOps & Cloud Infrastructure</h3>
     <ul>
@@ -236,6 +210,33 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <li>Containerizing applications with <b>Docker</b> and orchestrating using <b>Kubernetes</b></li>
       <li>Infrastructure provisioning with <b>Terraform</b> and monitoring using <b>Prometheus</b> + <b>Grafana</b></li>
       <li>Managing and deploying scalable cloud workloads on <b>AWS</b> and <b>Azure</b></li>
+    </ul>
+  </div>
+  
+  <br clear="right"/>
+  
+  <div>
+    <img align="left" width="270" src="https://cdn-icons-png.flaticon.com/512/4149/4149898.png" alt="Cloud" />
+    <h3 align="right">☁️ Cloud Platforms</h3>
+    <p align="right">
+      Expertise in deploying and managing cloud-native applications on <b>AWS</b> and <b>Azure</b><br>
+      Experience in <b>VM</b>, <b>Storage</b>, and <b>Networking</b> configurations<br>
+      Designing cost-optimized, scalable, and fault-tolerant cloud architectures<br>
+      Implementing security and IAM best practices for multi-environment deployments
+    </p>
+  </div>
+    
+  <br clear="left"/>
+
+    <!-- Infrastructure Automation -->
+  <div>
+    <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/10835/10835163.png" alt="Infrastructure Automation" />
+    <h3>🧩 Infrastructure Automation</h3>
+    <ul>
+      <li>Infrastructure provisioning with <b>Terraform</b> and <b>CloudFormation</b></li>
+      <li>Creating reusable IaC modules for consistent and scalable environments</li>
+      <li>Version-controlling infrastructure using <b>GitOps</b> practices</li>
+      <li>Streamlining deployment workflows and reducing manual overhead</li>
     </ul>
   </div>
 </div>
