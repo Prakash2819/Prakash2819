@@ -203,7 +203,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
 
 <div>
   <div>
-    <img align="right" width="270" style="position: relative; bottom: 20px;"  src="https://cdn-icons-png.flaticon.com/512/8759/8759076.png" alt="DevOps & Cloud" />
+    <img align="right" width="270" hieght="400"  src="https://cdn-icons-png.flaticon.com/512/8759/8759076.png" alt="DevOps & Cloud" />
     <h3>☁️ DevOps & Cloud Infrastructure</h3>
     <ul>
       <li>Automating deployments and CI/CD pipelines using <b>GitHub Actions</b> and <b>Jenkins</b></li>
