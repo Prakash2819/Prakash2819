@@ -129,7 +129,8 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Swiggy Repo"/>
           </a>
         </p>
-        <p><strong>Go, PostgreSQL</strong> - A comprehensive URL shortener featuring user accounts, link management, and an analytics dashboard.</p>
+        <p><strong>Docker, Kubernetes, Jenkins, SonarQube, Trivy, Prometheus</strong> — A complete DevSecOps pipeline implementation for the Swiggy application, featuring automated CI/CD, security scanning, container orchestration, and monitoring.</p>
+
       </div>
       
   </tr>
